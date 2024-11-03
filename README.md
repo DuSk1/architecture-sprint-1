@@ -57,9 +57,6 @@ Container-microfrontend — основа для сборки всех микро
 
 https://github.com/DuSk1/architecture-sprint-1
 
-#### Хэш комита:
-
-
 Смержил в main, ветку sprint_1 не удалял.
 
 
